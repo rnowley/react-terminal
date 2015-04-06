@@ -1,5 +1,5 @@
 # react-terminal
-Creates a terminal component using Reactjs that can be embeded into a HTML document.
+Creates a terminal component using Reactjs that can be embedded into a HTML document.
 
 
 

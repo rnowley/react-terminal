@@ -1,5 +1,1 @@
-function commandHandler(args) {
-    alert("Handling command.");
-};
-
-React.render(<Terminal commandHandler={commandHandler}/>, document.getElementById('app'));
+React.render(<Terminal commandHandler={CommandHandler}/>, document.getElementById('app'));
